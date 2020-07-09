@@ -1,0 +1,10 @@
+# In tis File, I am going to Add The Number(Addition).
+# BY Nirmit-Programmer
+
+# Make a Variable(num1, num2)
+num1 = float(input("Enter the value of Number 1 : "))
+num2 = float(input("Enter the value of Number 2 : "))
+
+# Define the Equation, make a Variable(sum) and Print the Output
+sum = num1 + num2
+print("The Sum of ",num1, " and ",num2, " is ",sum)
