@@ -1,0 +1,10 @@
+# Hello Everyone, In this File I am Going to teach that How to Multiply Numbers In Python.
+# By Code DJ
+
+# Make Variables
+num1 = float(input("Enter the Number 1 : "))
+num2 = float(input("Enter the Number 2 : "))
+
+# Make An Equation
+mul = num1 * num2
+print("The Multiplication of", num1, "and", num2, "is", mul)
